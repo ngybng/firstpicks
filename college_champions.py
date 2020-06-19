@@ -1,3 +1,5 @@
+#To explore the question: "How many first picks of the NBA came from that year's college championship winning team?" or rather, "How many times did the supposed best player in the draft also belong to the best college team in the country?"
+
 #Import libraries.
 from bs4 import BeautifulSoup
 import requests
